@@ -52,8 +52,5 @@ jupyter notebook notebooks/Image_Classifier_CNN.ipynb
 - Optimize hyperparameters for better accuracy.
 
 ## Contributors
-- Your Name
-
-## License
-This project is licensed under the MIT License.
+- Saad Abdullah
 
